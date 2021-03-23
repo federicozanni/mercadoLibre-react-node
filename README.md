@@ -24,5 +24,3 @@ Para correr los tests ejecutamos:
 ```
 npm run test
 ```
-
-"# test-meli" 
