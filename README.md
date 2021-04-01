@@ -22,3 +22,9 @@ Para correr los tests ejecutamos:
 ```
 npm run test
 ```
+
+<img src="https://user-images.githubusercontent.com/65865555/113358611-7f5b7680-931c-11eb-98a7-5297f2ac6625.png" >
+
+<img src="https://user-images.githubusercontent.com/65865555/113358613-7ff40d00-931c-11eb-89da-eb68b9fbff59.png" >
+
+<img src="https://user-images.githubusercontent.com/65865555/113358616-81253a00-931c-11eb-85a8-2694fc22969e.png" >
